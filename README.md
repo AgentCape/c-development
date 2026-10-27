@@ -1,3 +1,3 @@
 Website for C Development
 
-[Website](http://cdevelopment.runs-at.dev/)
+[Website](https://agentcape.github.io/c-development/)
